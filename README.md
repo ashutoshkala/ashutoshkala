@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Kala</h1>
-<h3 align="center">A passionate B.Tech Student from India</h3>
-
-- 🌱 I’m currently learning **AI & ML**
-
-
 <h2 align="left">Hi 👋! My name is Ashutosh Kala and A passionate B.Tech Student from India</h2>
 
 ###
@@ -87,6 +81,10 @@
 <img src="https://raw.githubusercontent.com/ashutoshkala/ashutoshkala/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashutoshkala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
