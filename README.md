@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.itch.zone/aW1nLzE1ODUyMzY4LnBuZw==/original/swZ4by.png"  />
 
 ###
 
@@ -80,6 +80,7 @@
 
 <img src="https://raw.githubusercontent.com/ashutoshkala/ashutoshkala/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 
