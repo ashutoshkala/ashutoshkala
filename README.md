@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.itch.zone/aW1nLzE1ODUyMzY4LnBuZw==/original/swZ4by.png"  />
 
 ###
 
@@ -81,15 +81,3 @@
 <img src="https://raw.githubusercontent.com/ashutoshkala/ashutoshkala/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashutoshkala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ashutoshkala&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
