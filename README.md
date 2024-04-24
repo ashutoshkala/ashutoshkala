@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ashutosh Kala and A passionate B.Tech Student from India</h2>
+<h2 align="left">Hi 👋! My name is Ashutosh</h2>
 
 ###
 
