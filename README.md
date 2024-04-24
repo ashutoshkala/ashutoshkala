@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoshkala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false](https://github-readme-stats.vercel.app/api?username=ashutoshkala&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -81,15 +81,3 @@
 <img src="https://raw.githubusercontent.com/ashutoshkala/ashutoshkala/output/snake.svg" alt="Snake animation" />
 
 ###
-###
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashutoshkala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
